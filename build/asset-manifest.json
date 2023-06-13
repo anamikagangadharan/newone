@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31ea4329.css",
+    "main.js": "/static/js/main.c381b3c1.js",
+    "static/js/787.5ffbd67f.chunk.js": "/static/js/787.5ffbd67f.chunk.js",
+    "static/media/Background Pattern.svg": "/static/media/Background Pattern.b0d086c8774a21fa5e9a.svg",
+    "static/media/product 11.png": "/static/media/product 11.9ea3cd60f723e35b8e1d.png",
+    "static/media/Posternew.png": "/static/media/Posternew.556780d191a689fa7811.png",
+    "static/media/product 33.png": "/static/media/product 33.e051a9b492c78a511944.png",
+    "static/media/image 14.png": "/static/media/image 14.342b684be92657e606f7.png",
+    "static/media/product 22.png": "/static/media/product 22.2aa03ac4de43deed9934.png",
+    "static/media/finance-money-debt-credit-balance-concept 1.png": "/static/media/finance-money-debt-credit-balance-concept 1.2548891c433388dfc0e1.png",
+    "static/media/animation_list.gif": "/static/media/animation_list.e5d28447a8872d244324.gif",
+    "static/media/Patterns.png": "/static/media/Patterns.eca5629ea21052c3b2e4.png",
+    "static/media/image 11.png": "/static/media/image 11.1f242d96052be6f15e15.png",
+    "static/media/image 12.png": "/static/media/image 12.f0b77301607461784165.png",
+    "static/media/Frame 147.png": "/static/media/Frame 147.63dccac8baf06104ced2.png",
+    "static/media/contactbackground.png": "/static/media/contactbackground.63dccac8baf06104ced2.png",
+    "static/media/Frame 151.png": "/static/media/Frame 151.93836c0987fba9034763.png",
+    "static/media/Logo.svg": "/static/media/Logo.56c75aad51f250739c4d559d0674161c.svg",
+    "static/media/image 15.png": "/static/media/image 15.cb2712fa8a7c5399faaa.png",
+    "static/media/Frame-1.svg": "/static/media/Frame-1.371651b59f7248a020e90841f052480a.svg",
+    "static/media/instagram logo.svg": "/static/media/instagram logo.8b98389d755dcbe431968c3b4dd85987.svg",
+    "static/media/Frame-2.svg": "/static/media/Frame-2.13d035b6c3ddae78b63047be38831ed6.svg",
+    "static/media/Twitter.svg": "/static/media/Twitter.6412a5727228c0e027a921792b2b9a4e.svg",
+    "static/media/Frame.svg": "/static/media/Frame.72f64fc597d737c1e40a4dca2819d138.svg",
+    "index.html": "/index.html",
+    "static/media/linkedin2.svg": "/static/media/linkedin2.29844b3736902a6d703acfd8ddfa6529.svg",
+    "main.31ea4329.css.map": "/static/css/main.31ea4329.css.map",
+    "main.c381b3c1.js.map": "/static/js/main.c381b3c1.js.map",
+    "787.5ffbd67f.chunk.js.map": "/static/js/787.5ffbd67f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31ea4329.css",
+    "static/js/main.c381b3c1.js"
+  ]
+}
