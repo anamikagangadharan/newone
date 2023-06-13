@@ -1,0 +1,41 @@
+.container{
+    color: #000000;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    /* margin: auto; */
+    /* padding: 0% 7%; */
+    margin-bottom: 50px;
+    margin-top: 8%;
+}
+.heading{
+    text-align: center;
+    width: 86%;
+    color: #FFFFFF;
+    margin: auto;
+
+}
+
+.termsbackground{
+    background-color: rgba(1,1,1,0.4);
+    width: 86%;
+    border-radius: 20px;
+    padding: 1% 2%;
+    color: #CCCCCC;
+    font-style: 16px;
+    font-weight: 200;
+    margin: auto;
+}
+.termsbackground>h4{
+    color: #FFFFFF;
+}
+@media screen and (max-width: 768px) {
+  .container{
+    font-size:14px;
+  }
+  .heading{
+    width: 80%;
+  }
+
+
+}

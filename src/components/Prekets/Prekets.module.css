@@ -1,0 +1,132 @@
+.container {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  width: 100%;
+  margin-top: 48px;
+}
+.pthree {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+
+}
+
+.listanimation {
+  height: 20px;
+  width: 20px;
+}
+.dwbt {
+  border-radius: 41px;
+  padding: 8px 24px;
+  background-color: #ff5656;
+  color: #fff;
+  border-color: #ff5656;
+  margin-left: 30px;
+  margin-top: -5px;
+  width: fit-content;
+  height: fit-content;
+  font-size: 14px;
+  border: 1px solid #ff5656;
+}
+
+.dwbt::after{
+  content: "Download App";
+}
+.dwbt:hover::after{
+  content: "Will launch soon";
+  color: #ff5656;
+}
+.p3 {
+  width: 440px;
+  height: 300px;
+  margin: auto;
+  object-fit: contain;
+}
+.rowandcolumn {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  text-align: center;
+}
+.prhead {
+  font-size: 32px;
+  text-align: center;
+}
+.prdesc {
+  font-size: 20px;
+  text-align: center;
+  color: #b3b3b3;
+}
+.prcont {
+  font-size: 16px;
+  color: #999999;
+  text-align: center;
+  padding-left: 7rem;
+  padding-right: 7rem;
+  
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    width: 100%;
+  }
+  .prhead {
+    font-size: 18px;
+  }
+  .prdesc {
+    font-size: 12px;
+    text-align: center;
+  font-size: 15px;
+    padding: 0rem 1rem;
+  }
+  .prcont {
+    font-size: 11px;
+    padding: 0rem 2rem;
+    margin: auto;
+    text-align: left;
+    width: fit-content;
+
+  }
+
+  .rowandcolumn {
+    display: flex;
+    margin: auto;
+  }
+
+  .pthree {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+  }
+  .dwbt {
+    padding: 4px 4px;
+    background-color: #ff5656;
+    color: #fff;
+    border-color: #ff5656;
+    margin-left: 88px;
+    margin-top: -5px;
+    width: 116px;
+    margin: auto;
+  }
+
+  .dwbt::after{
+    content: "Download App";
+  }
+  .dwbt:hover::after{
+    content: "Will launch soon";
+    color: #ff5656;
+    font-size: 10px;
+  }
+ 
+  .p3 {
+    width: 240px;
+    height: 150px;
+    object-fit: contain;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+  }
+}

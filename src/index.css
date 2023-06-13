@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500&display=swap');
+body {
+  margin: 0;
+ 
+  background-image: url("C:\new invicious\off-website\src\assets\Background Pattern.svg");
+  background-color:#0E0E0E !important;
+  font-family: 'Nunito', sans-serif;
+  overflow-x: hidden;
+ 
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+element.style {
+  position: relative;
+  margin: auto;
+  pointer-events: auto;
+}
+.popup-content {
+  margin: auto;
+background-color: black;
+  width: fit-content;
+  border-radius: 30px;
+  /* padding: 5px; */
+
+}
+
+a:link{
+  text-decoration: none;
+  color: aliceblue !important;
+}
+
+
+/* .popup-content{
+  width: 90%;
+} */
